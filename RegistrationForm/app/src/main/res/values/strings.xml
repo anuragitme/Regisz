@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">RegistrationForm</string>
+    <string name="change_dp">Change DP</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="re_enter_your_password">Re-enter your password</string>
+    <string name="term_condition">The person must agree to abide by the terms of service in order to use the offered service.</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="i_agree">I agree</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="others">Others</string>
+    <string name="gender">Gender</string>
+    <string name="submit">Submit</string>
+    <string name="profile_dp">Profile dp</string>
+    <string name="country">Country</string>
+    <string name="please_re_enter_your_password">*Please re-enter your password</string>
+    <string name="please_enter_your_password">*Please enter your password</string>
+    <string name="please_enter_your_email">*Please enter your email</string>
+    <string name="please_enter_your_name">*Please enter your name</string>
+    <string name="please_fill_this_field">*Please fill this field</string>
+
+    <string-array name="countries">
+        <item>India</item>
+        <item>USA</item>
+        <item>England</item>
+        <item>Russia</item>
+        <item>Germany</item>
+        <item>Australia</item>
+    </string-array>
+</resources>
